@@ -1,0 +1,3 @@
+C:/Users/ktrin/Desktop/Semestr 5/PEA_p/Zad 1/PEA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ktrin/Desktop/Semestr 5/PEA_p/Zad 1/PEA/cmake-build-debug/CMakeFiles/PEA.dir
+C:/Users/ktrin/Desktop/Semestr 5/PEA_p/Zad 1/PEA/cmake-build-debug/CMakeFiles/edit_cache.dir
