@@ -2,7 +2,7 @@ Projekt na "Progamowanie efektywych algorytmów" rozpatrujący problem komiwoja�
 
 Zaimplementowane zostały algorytmy:
   - Brute Force
-  - Branch and Bound
+  - Branch and Bound (w wersji Low Cost)
   - Simulated Annealing
   - Tabu Search
   - Genetic Algorithm
